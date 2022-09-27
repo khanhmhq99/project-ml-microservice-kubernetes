@@ -6,11 +6,11 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath="khanhmhq/khanhproject:v1.0.0"
+dockerpath="khanhmhq/khanhproject:v1.0.1"
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl run khanhproject --image=khanhmhq/khanhproject:v1.0.0 --port=8080
+kubectl run khanhproject --image=khanhmhq/khanhproject:v1.0.1 --port=8080
 
 # Step 3:
 # List kubernetes pods

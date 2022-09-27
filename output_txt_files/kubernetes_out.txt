@@ -2,4 +2,13 @@ NAME           READY   STATUS    RESTARTS      AGE
 khanhproject   1/1     Running   1 (63m ago)   87m
 Forwarding from 127.0.0.1:8080 -> 80
 Forwarding from [::1]:8080 -> 80
-Handling connection for 8080
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 194-414-639
